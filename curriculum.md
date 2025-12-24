@@ -30,3 +30,24 @@
 
 ### Phase 7: Formal Verification (Research Capstone)
 * Formal Reasoning About Programs (FRAP) — Adam Chlipala
+
+---
+# The "1%" Full Stack Extension
+
+### Phase 8: Modern Frontend Engineering
+* **Course:** Full Stack Open (University of Helsinki)
+* **Book:** High Performance Browser Networking — Ilya Grigorik
+* **Tech Stack:** TypeScript, React, Next.js, Tailwind CSS
+
+### Phase 9: Distributed Systems & Architecture
+* **Book:** Designing Data-Intensive Applications — Martin Kleppmann
+* **Book:** System Design Interview — Alex Xu
+* **Tech Stack:** Rust (Axum/Actix) or Go, PostgreSQL, Redis, gRPC
+
+### Phase 10: Cloud Native & DevOps
+* **Focus:** Docker, Kubernetes, AWS, Terraform (Infrastructure as Code)
+
+### Phase 11: The Secret Weapon (WebAssembly)
+* **Goal:** Compile C++ functions to WASM to run in the browser.
+* **Resource:** "Emscripten" Documentation (C++ to WASM compiler).
+
