@@ -6,6 +6,7 @@
 
 ### Phase 2: The C Language (Security Focus)
 * Effective C: An Introduction to Professional C Programming (2nd Edition) — Robert C. Seacord
+* Computer Systems: A Programmer's Perspective (CS: APP)
 
 ### Phase 3: Core C++ & Algorithms
 * https://www.learncpp.com/
