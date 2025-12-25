@@ -1,8 +1,8 @@
 # Physical Fitness 
-*
-*
-*
-*
+* callanetics
+* Weightlifting
+* Toning Machines
+* 
 *
 *
 *
