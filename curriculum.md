@@ -21,7 +21,7 @@
 # Cooking
 * Rouxbe - Professional Cook Certification
 * Rouxbe - Plant-Based Professional Certification
-* 
+* Rouxbe - Baking Skills Development 
 
 
 # Butcher 
