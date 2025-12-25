@@ -1,3 +1,42 @@
+# Physical Fitness 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+# Sports 
+* Airsoft Gun Play
+* Paintball Gun Play 
+* Soccer
+* Basketball
+* Swimming
+* Boxing
+* MMA
+
+# Cooking
+*
+*
+*
+
+
+# Butcher 
+* George Brown College - Introduction to Butchery HOSF 9478
+* Butcher Craft - Course
+
+
+  
+
+# Mathematics
+* Khan Academy Math Track
+* The Organic Chemist Videos 
+* Brilliant Math Track (Optional)
+
+
 # The "Math-to-Metal" Computer Science Curriculum
 
 ### Phase 1: Foundations & Web
@@ -56,17 +95,19 @@
 
 ### CERTIFICATIONS
 * CompTIA Secure Infrastructure Specialist
-* Comptia Linux+
-* Comptia Pentest+
-* Comptia SecurityX
+* CompTIA Linux+
 * Hackthebox Certified Bug Bounty Hunter (Legacy)
 * TryHackMe SAL1
-* CCNA
 * CyberDefenders CCD
+* Tryhackme PT1
+* CompTIA Pentest+
+* CEH
 * CEH Master
 * OSCP
 * OSCE3
+* OSEE
 * Red Team OPS 1 & 2
+* CompTIA SecurityX
 * CISSP
 
 ### PROFESSIONAL CERTIFICATES
@@ -77,6 +118,8 @@
 * ADP AIRS® Entry-Level Recruiter Professional Certificate
 
 ### CYBERSECURITY COURSES
-* ICS410: ICS/SCADA Security Essentials by SANS
+
 * Ransomware, Phishing, Malware Dev by Maldev Academy
+* Sector7 (All Courses)
+* GIAC Audit 
 
