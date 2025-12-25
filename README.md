@@ -1,4 +1,7 @@
-I am going to teach you guys how to become a polymath.
+I am going to teach you guys how to become the ultimate polymath. This program is 20 years long, and it will help you become a better version of yourself. It's for both men and women. trans, etc, as long as you are physically and mentally able
+To perform the tasks, if you are physically  or/and mentally disabled, there will be another path based on that here that u can substitute things here.
+
+
 # Religion and Spirituality
 * theistic evolutionist
 * spirituality
