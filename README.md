@@ -248,6 +248,12 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
+### Engineering
+* PhD in Aerospace Engineering
+
+
+
+
 ### MILITARY TRAINING & OPERATIONS  
 * Dual Asymmetric Warfare & Strategic Operations Bachelors Degree
 *
