@@ -4,6 +4,13 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 
 
 
+# Pick A Religion (example: Islam, Christianity) 
+* Morality 
+* Prayer 
+* Sunni 
+
+
+
 # Theistic Evolutionisonism 
 *
 *
@@ -18,9 +25,9 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 
 
-# Satanism 
+# Satanism (Understanding the role of the devil and his minions)
 * Left Path 
-*
+* Right Path 
 *
 *
 
@@ -32,11 +39,33 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 
 
 # Sexuality Management 
-*
-*
-*
+* LGBT
+* Pansexual 
+* Medications
 
 
+# Travel 
+* USA 
+* Japan 
+* Philipines 
+* Peru 
+* Russia 
+* Cambodia 
+* Dubai
+* Qatar 
+* Italy 
+* Colombia
+* Mexico
+* Pakistan 
+* Bangladesh
+
+
+# Mental Health
+*
+*
+*
+*
+*
 
 
 
