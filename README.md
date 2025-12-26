@@ -162,8 +162,48 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * ADP AIRS® Entry-Level Recruiter Professional Certificate
 
 ### CYBERSECURITY COURSES
-
 * Ransomware, Phishing, Malware Dev by Maldev Academy
 * Sector7 (All Courses)
-* GIAC Audit 
+* GIAC Audit
+
+
+### CRYPTOCURRENCY 
+*
+*
+*
+*
+
+
+### ENCRYPTION
+*
+*
+*
+*
+*
+
+### CYBERWARFARE
+*
+*
+*
+*
+*
+
+
+### LAW ENFORCEMENT TRAINING & OPERATIONS 
+*
+*
+*
+*
+
+### MILITARY TRAINING & OPERATIONS  
+*
+*
+*
+*
+
+### DARK WEB
+* Dark Web Fundamentals 
+* Operational Security 
+* Understanding Ecosystems 
+
 
