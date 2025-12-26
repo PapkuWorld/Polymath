@@ -226,12 +226,12 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
-### CYBERWARFARE
-*
-*
-*
-*
-*
+### CYBERWARFARE (Accelerated Program Created using these countries' cyberwarfare programs)
+* Tailored Access Operations USA
+* Unit 8200 Israel 
+* Sandworm Russia 
+* Swarm - China 
+* Lazarus Group - North Korea 
 
 
 ### LAW ENFORCEMENT TRAINING & OPERATIONS 
