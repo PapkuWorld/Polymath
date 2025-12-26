@@ -299,3 +299,14 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
+
+### HEALTH
+* health insurance
+* health budget
+* cryonics
+
+### FAMILY LIFE
+*
+*
+*
+*
