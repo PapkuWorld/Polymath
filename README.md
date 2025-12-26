@@ -256,3 +256,25 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 *
+### GAME DEVELOPMENT 
+*
+*
+*
+### LIFE SKILLS
+* Driving License
+* Truck Driving License (Optional)
+* Boat License 
+
+
+### SIMULATION TRAINING 
+*
+*
+*
+*
+
+### GAMING 
+* Factorio 
+* 
+*
+*
+
