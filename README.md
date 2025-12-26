@@ -305,7 +305,13 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Unit 8200 Israel 
 * Sandworm Russia 
 * Swarm - China 
-* Lazarus Group - North Korea 
+* Lazarus Group - North Korea
+
+
+### Psychological Warfare 
+*
+*
+*
 
 
 ### LAW ENFORCEMENT TRAINING & OPERATIONS 
