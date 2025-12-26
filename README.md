@@ -2,10 +2,43 @@ I am going to teach you guys how to become the ultimate polymath. This program s
 To perform the tasks, if you are physically  or/and mentally disabled, there will be another path based on that here that u can substitute things here.
 
 
-# Religion and Spirituality
-* theistic evolutionist
-* spirituality
-* Satanic Left Path
+
+
+# Theistic Evolutionisonism 
+*
+*
+*
+*
+
+
+# Spirituality Mapping
+*
+*
+*
+*
+
+
+# Satanism 
+* Left Path 
+*
+*
+*
+
+
+# History 
+*
+*
+*
+
+
+# Sexuality Management 
+*
+*
+*
+
+
+
+
 
 # Philosophy 
 *
