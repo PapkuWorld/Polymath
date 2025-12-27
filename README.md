@@ -46,7 +46,7 @@ I am going to teach my friends how to become the ultimate polymath. This program
 * Practice Meditation and Mindfulness 
 * Fitness fixes make me less depressed 
 * Stop worrying, nothing is going to happen 
-* Sleep whenever u feel like, hard to sleep due to nightmares 
+* Sleep whenever u feel like, it's hard to sleep due to nightmares 
 
 
 
@@ -331,8 +331,13 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * GIAC Security Expert (Full Audit Only)
 * Advanced Exploit Development
 
-> $600 USD per year certification maintenance cost if including GIAC. 
+>> $600 USD per year certification maintenance cost if including GIAC. 
 
+###  Telecommunications 
+*
+*
+*
+*
 
 
 
@@ -342,6 +347,8 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Social Media Networks
 * Various Websites
 
+
+  
 ### PROFESSIONAL CERTIFICATES
 * TryHackMe Blue Team, Red Team, Security Engineer Path Complete
 * HacktheBox Red Team Paths Complete
@@ -425,10 +432,24 @@ Finally, we are going to now fully get on with the guide and what you will be le
 *
 
 
+## OPERATIONAL SECURITY 
+* Tails OS
+* Graphene OS 
+* Encryption - PGP, etc 
+* Protonmail
+* Jabber
+* Whatsapp
+* Signal
+* Simplex
+* Telegram
+* Session
+* 
+
+
+
 
 ### DARK WEB
-* Dark Web Fundamentals 
-* Operational Security 
+* Dark Web Fundamentals  
 * Understanding Ecosystems 
 
 ### GANGSTALKING PROTECTION
@@ -510,6 +531,17 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Microbiology
 * Botany
 * Zoology
+
+
+# Biotech
+*
+*
+*
+*
+*
+*
+*
+
 
 # Chemistry & Materials Science
 * General Chemistry
