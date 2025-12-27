@@ -93,6 +93,9 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Obstacle Course
 * Resistance 
 * Pain Tolerance 
+* Nutrition Science
+* Anatomy & Kinesiology for Exercise
+
 
 
 
@@ -290,6 +293,16 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
+# Economics
+* Microeconomics
+* Macroeconomics
+* Behavioral Economics
+* Financial Markets
+* International Trade
+
+
+
+
 
 ### CRYPTOCURRENCY 
 *
@@ -299,11 +312,10 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 
 
 ### ENCRYPTION
-*
-*
-*
-*
-*
+* Symmetric Key Cryptography
+* Asymmetric Key Cryptography (Public Key Infrastructure)
+* Hashing Algorithms
+* Digital Signatures
 
 ### CYBERWARFARE (Accelerated Program Created using these countries' cyberwarfare programs)
 * Tailored Access Operations USA
@@ -355,20 +367,38 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 ### GAME DEVELOPMENT 
-*
-*
-*
+* Game Design Principles
+* Game Programming (e.g., Unity, Unreal Engine)
+* 3D Modeling & Animation for Games
+* Level Design
+* Game Physics
+* Monetization Strategies in Gaming
+* Narrative Design for Games
+
+
+
+
+
+
 ### LIFE SKILLS
 * Driving License
 * Truck Driving License (Optional)
 * Boat License 
+* Financial Literacy (Budgeting, Investing, Taxes)
+* Home Maintenance & Repair
+* Basic First Aid & CPR
+* Wilderness Survival Skills
+* Public Speaking & Presentation Skills
+* Negotiation & Conflict Resolution
+* Time Management & Productivity
+
 
 
 ### SIMULATION TRAINING 
 * Fighter Jet 
 * Military 
 * Law Enforcement 
-* Space Science 
+* Space Science (e.g., Astronaut Training Simulations)
 
 ### GAMING 
 * Factorio 
@@ -376,11 +406,71 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
+# Astronomy & Astrophysics
+* Solar System & Planetary Science
+* Stellar Evolution
+* Galaxies & Cosmology
+* Observational Astronomy
+* Astrobiology
+
+# Physics & Engineering Principles
+* Classical Mechanics
+* Electromagnetism
+* Thermodynamics
+* Quantum Mechanics (Introductory)
+* Relativity (Introductory)
+* Optics
+* Fluid Dynamics
+* Statics & Dynamics (Engineering)
+
+
+# Biology & Life Sciences
+* Cell Biology
+* Genetics & Molecular Biology
+* Evolutionary Biology
+* Ecology
+* Human Anatomy & Physiology
+* Microbiology
+* Botany
+* Zoology
+
+# Chemistry & Materials Science
+* General Chemistry
+* Organic Chemistry
+* Inorganic Chemistry
+* Physical Chemistry
+* Biochemistry
+* Materials Science (Polymers, Metals, Ceramics, Composites)
+* Nanotechnology
+
+# Creative Subjects 
+* Generative AI for Creativity
+* Graphic Design
+* Video Editing
+* Hentai 3D Art (Optional)
+* Audio Engineering
+* Music Production - various genres and techniques
+* Instruments - Piano
+* Instruments - Drums
+* Instruments - Guitar
+* Instruments - Violin
+* Traditional Art - Oil Painting 
+* Sculpture
+* Photography
+* Creative Writing (Poetry, Fiction, Screenwriting)
+* Public Speaking & Storytelling
+
+
+
 
 ### HEALTH
 * health insurance
 * health budget
 * cryonics
+
+
+
+
 
 ### FAMILY LIFE
 *
