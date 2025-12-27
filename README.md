@@ -1,4 +1,5 @@
-I am going to teach my friends how to become the ultimate polymath. This program spans 20 years and will help you become a better version of yourself. It's for both men and women. trans, etc., as long as you are physically and mentally capable of performing the tasks. If you are physically  or/and mentally disabled, there will be another path based on that here that u can substitute things here. I made this guide in my own image because I have been struggling with Paranoid Schizoprenia, Biopolar Disorder Type 1, Obsessive-Compulsive Disorder, General Anxiety Disorder, Dissociative Identity Disorder, and Autism Level 1.
+I am going to teach my friends how to become the ultimate polymath. This program spans 20 years and will help you become a better version of yourself. It's for both men and women. trans, etc., as long as you are physically and mentally capable of performing the tasks. If you are physically  or/and mentally disabled, there will be another path based on that here that u can substitute things here. I made this guide in my own image because I have been struggling with Paranoid Schizoprenia, Biopolar Disorder Type 1, Obsessive-Compulsive Disorder, General Anxiety Disorder, Dissociative Identity Disorder, and Autism Level 1. I got diagnosed with all these illnesses after getting gangstalked by different beings for months.
+
 
 # How my mental illnesses affect me:
 
@@ -35,7 +36,7 @@ I am going to teach my friends how to become the ultimate polymath. This program
 * Remember past trauma and going into a cycle of sadness and anger
 * 8 alters that I don't remember who they are 
 
-  
+
 
 
 
@@ -428,6 +429,13 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Dark Web Fundamentals 
 * Operational Security 
 * Understanding Ecosystems 
+
+### GANGSTALKING PROTECTION
+* Threat Modeling (Extremely High)
+* Physical Security 
+* Shielding 
+* Secure Transportation 
+
 
 ### HOW THINGS WORK
 *
