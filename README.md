@@ -419,14 +419,19 @@ Finally, we are going to now fully get on with the guide and what you will be le
 *
 
 ### Engineering
-* PhD in Systems Engineering
+# PhD in Systems Engineering
+* Arial Offensive Weapons Systems 
+* Arial Defensive Weapons Systems 
+* Military UAV/Drones Development 
+* Submarine Systems 
+* Robotics & AI in Systems Engineering 
 
 
 
 
 ### MILITARY TRAINING & OPERATIONS  
 * Dual Asymmetric Warfare & Strategic Operations Bachelors Degree
-*
+* Security Rings 
 *
 *
 
