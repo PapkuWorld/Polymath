@@ -1,35 +1,35 @@
 I am going to teach my friends how to become the ultimate polymath. This program spans 20 years and will help you become a better version of yourself. It's for both men and women. trans, etc., as long as you are physically and mentally capable of performing the tasks. If you are physically  or/and mentally disabled, there will be another path based on that here that u can substitute things here. I made this guide in my own image because I have been struggling with Paranoid Schizoprenia, Biopolar Disorder Type 1, Obsessive-Compulsive Disorder, General Anxiety Disorder, Dissociative Identity Disorder, and Autism Level 1.
 
-### How my mental illnesses affect me:
+# How my mental illnesses affect me:
 
-# Paranoid Schizophrenia
+### Paranoid Schizophrenia
 * Hearing Voices and seeing things that are not real
 * Having extreme paranoia
 * Hard time sleeping because of nightmares and insomnia
 * Delusions that take over the life
 
-# Bipolar Disorder Type 1 
+### Bipolar Disorder Type 1 
 * Mania makes me stay up for hours and do a lot of things
 * Depression makes me feel really down and sad 
 * Unstable Creativity 
 
-# Obsessive Compulsive Disorder 
+### Obsessive Compulsive Disorder 
 * Checking locks, stoves, sinks, and pockets multiple times, 
 * fixated on a thought sometimes, it keeps repeating inside my head 
 * Need to have things in semi-perfect order, or else I am not satisfied
 
-# General Anxiety Disorder 
+### General Anxiety Disorder 
 * Scared of most people when going outside 
 * when walking behind someone or over bridges, feeling scared 
 * uncontrollable walk path to the destination
 
-# Autism Level 1 
+### Autism Level 1 
 * Sensitive to High-Pitched Sounds  
 * Extremely Slow Learner
 * Diverse interests in Technology-Related Things
 * Group Social Gatherings problems
 
-# Dissociative Identity Disorder
+### Dissociative Identity Disorder
 * Having temporary blackouts, and it feels like someone else took over 
 * Extreme Memory Problems 
 * Remember past trauma and going into a cycle of sadness and anger
