@@ -161,9 +161,92 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Drug test
 
 # Law 
-* Private International Law Fundamentals + Customs (Audit)
-* Public International Law Fundamentals + Customs (Audit)
-* Criminal Law Fundamentals + Customs (Audit)
+* Private International Law Fundamentals + Custom (Audit)
+* Public International Law Fundamentals + Custom (Audit)
+* Criminal Law Fundamentals + Custom (Audit)
+
+# Ethics 
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+# Historical Study and Figure Analysis (Independent Study & Journalism) 
+* Leonardo da Vinci
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+# Political Study and Figure Analysis (Independent Study & Journalism) 
+* Muammar Gaddafi
+* Vladimir Putin
+* Ali Khamenei
+*
+*
+*
+*
+*
+*
+
+
+
+
+# Criminal Justice and Figure Analysis (Independent Study & Journalism) 
+* Volodymyr Tymoshchuk
+* EVGENIY MIKHAILOVICH BOGACHEV
+* Alexandre Cazes
+* Maksim Yakubets
+* Paul Le Roux
+* EL Mencho
+* Semion Mogilevich
+* Dawood Ibrahim
+* Tse Chi Lop
+* 
+*
+*
+*
+*
+*
+*
+*
+*
+* Abu Bakr al-Baghdadi
+* Osama bin Laden
+* Hassan Nasrallah
+* Yahya Sinwar
+
+
+# Purification
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
 
 
 # Travel 
