@@ -499,6 +499,37 @@ To practice this phase, move away from standard environments:
 
 
 
+### HARDWARE HACKING STUFF
+* Flipper Zero
+*
+*
+*
+*
+*
+*
+*
+
+
+### Chemistry Lab 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
+
+
+
+
+
 
 ### BUSINESS 
 * Master of Business Administration - https://www.athabascau.ca/programs/summary/master-of-business-administration.html
@@ -781,6 +812,26 @@ To practice this phase, move away from standard environments:
 
 
 
+### BUDGET
+*
+*
+*
+*
+
+### HOUSING
+*
+*
+*
+*
+*
+
+
+### HOUSING - OPERATIONAL SECURITY 
+*
+*
+*
+*
+*
 
 
 ### FAMILY LIFE
