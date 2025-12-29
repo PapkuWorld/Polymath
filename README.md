@@ -229,6 +229,29 @@ Japanese Hentai Artist Style
 
 
 
+Adobe Creative Cloud Replacements:
+DaVinci Resolve Studio
+Character Development: Daz Studio
+Vroid Studio 
+Animation: Blender 
+Clothing: Marvelous Designer
+MMD: mmd tools (Blender)
+MMD: CATS Blender Plugin
+MMD: MikuMikuDance (64-bit) + MikuMikuEffect
+MMD: Ray-MMD
+MMD: AviUtl
+MMD: Ut Video Codec
+
+
+
+
+
+
+
+
+
+
+
 
 
 # audio engineering
