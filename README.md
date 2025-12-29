@@ -760,7 +760,24 @@ To practice this phase, move away from standard environments:
 * health budget
 * cryonics
 
+### DIGITAL IMMORTALITY
+*
+*
+*
+*
+*
+*
+*
+*
 
+### BIOLOGICAL IMMORTALITY
+*
+*
+*
+*
+*
+*
+*
 
 
 
