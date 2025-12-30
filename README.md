@@ -696,7 +696,9 @@ To practice this phase, move away from standard environments:
 * Revit Track: Families (Custom creation), Worksharing (Collaboration), Phases, and Design Options
 * Autodesk Certified Professional Prep Coursera
 * GMetrix practice tests
-* AutodeskCertified Professional Exam  
+* AutodeskCertified Professional Exam
+* Learn Civil 3D
+* Learn Dynamo
 
 
 ### MILITARY TRAINING & OPERATIONS  
