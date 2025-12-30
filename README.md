@@ -689,6 +689,14 @@ To practice this phase, move away from standard environments:
 * Robotics & AI in Systems Engineering 
 
 
+### Engineering Civil
+* Autodesk Certified User (ACU) Prep Course on LinkedIn Learning
+* ACU (Certified User) exam
+* AutoCAD Track: Dynamic Blocks, External References (Xrefs), Sheet Sets, and Attributes
+* Revit Track: Families (Custom creation), Worksharing (Collaboration), Phases, and Design Options
+* Autodesk Certified Professional Prep Coursera
+* GMetrix practice tests
+* AutodeskCertified Professional Exam  
 
 
 ### MILITARY TRAINING & OPERATIONS  
