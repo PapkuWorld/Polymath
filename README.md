@@ -951,7 +951,7 @@ To practice this phase, move away from standard environments:
 *
 
 ### HOUSING
-*
+* Detached House/ 5 bedroom, 5 bathroom, 17,489 sqf $4M USD 
 *
 *
 *
@@ -964,6 +964,13 @@ To practice this phase, move away from standard environments:
 *
 *
 *
+
+### TRANSPORTATION
+* Bus / Train 
+* Taxis 
+* Own Car - Tesla Model S 2026, Tesla CyberTruck 2026, 
+
+
 
 
 ### FAMILY LIFE
